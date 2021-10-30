@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:title="HOME"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:id="@+id/home"/>
+        <item
+            android:title="SETTINGS"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:id="@+id/settings"/>
+        <item
+            android:title="HELP"
+            android:icon="@drawable/ic_baseline_help_24"
+            android:id="@+id/help"/>
+    </group>
+</menu>

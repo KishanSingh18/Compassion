@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Compassion</string>
+
+    <string name="open_drawer">open drawer</string>
+    <string name="close_drawer">close</string>
+
+    <string name="Learn">"Learn more about how we're responding to COVID-19"</string>
+    <string name="tell">Tell me more</string>
+    <string name="Telling_more">Our hearts break for our global Compassion family who have suffered the pain and loss
+        caused by COVID-19. Since the beginning of the pandemic, economic shutdowns have pushed many more people into
+        extreme poverty. In addition to immediate issues, such as droughts and food insecurity, many communities are now
+        facing educational challenges caused by school closures and remote learning as well as longer-term medical needs
+        complicated by the pandemic. Please continue to pray for those deeply impacted by this pandemic. Our Compassion staff,
+        volunteers and frontline church partners across the world are working diligently and creatively to address immediate needs
+        and to help vulnerable children and their families rebuild from lasting effects of the pandemic. Thank you for your continued
+        support and prayers.</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
